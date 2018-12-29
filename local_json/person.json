@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Jaycee",
+    "age": "22",
+    "height": "172cm",
+    "gender": "Male",
+    "complexion": "chocolate"
+  },
+  {
+    "name": "John",
+    "age": "28",
+    "height": "172cm",
+    "gender": "Male",
+    "complexion": "fair"
+  },
+  {
+    "name": "Ada",
+    "age": "18",
+    "height": "122cm",
+    "gender": "Female",
+    "complexion": "chocolate"
+  },
+  {
+    "name": "Dexter",
+    "age": "10",
+    "height": "143cm",
+    "gender": "Male",
+    "complexion": "white"
+  },
+  {
+    "name": "Didi",
+    "age": "20",
+    "height": "182cm",
+    "gender": "Female",
+    "complexion": "White"
+  },
+  {
+    "name": "Johnny Bravo",
+    "age": "21",
+    "height": "172cm",
+    "gender": "Male",
+    "complexion": "White"
+  },
+  {
+    "name": "Akpos",
+    "age": "20",
+    "height": "182cm",
+    "gender": "Male",
+    "complexion": "Black"
+  },
+  {
+    "name": "Chinyerem",
+    "age": "20",
+    "height": "162cm",
+    "gender": "Female",
+    "complexion": "Brown"
+  }
+]
